@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 be3138c92e907a97ca62720e52e0b87ab3332556 marcio1989 <marcio.ricardo.muniz@hotmail.com> 1620843785 -0300	commit (initial): initial commit
+be3138c92e907a97ca62720e52e0b87ab3332556 d5bbf50463a38dcc9c3a8fbd0094b0531f853234 marcio1989 <marcio.ricardo.muniz@hotmail.com> 1620844858 -0300	commit: Iniciando o frontend
+d5bbf50463a38dcc9c3a8fbd0094b0531f853234 d0560e1b18a7327cf7fbe3d594bbda9822c9add9 marcio1989 <marcio.ricardo.muniz@hotmail.com> 1620845951 -0300	commit: Angular material instalado no projeto
+d0560e1b18a7327cf7fbe3d594bbda9822c9add9 57b18ad54e324d187f6122bf8ec87323a6cd2e5d marcio1989 <marcio.ricardo.muniz@hotmail.com> 1620854206 -0300	commit: Home implementado com rotas
